@@ -1,2 +1,2 @@
-# dino
-Jogo do dinossauro do google quando ficamos sem internet
+# Space Shooter
+projeto feito no bootcamp da digital inovation one. Jogo estilo space shooter
